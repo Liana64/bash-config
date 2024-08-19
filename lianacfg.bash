@@ -9,7 +9,7 @@ source ~/.config/bash/.env
 export LIANACFG_VER=1.0
 
 # Personal Shortcuts
-alias weather='curl wttr.sh/$LIANACFG_WEATHER'
+alias weather='curl wttr.in/$LIANACFG_WEATHER'
 
 # Main Shortcuts
 alias c='clear'
